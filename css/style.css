@@ -4,10 +4,37 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Sunflower' !important;
+}
+
+body {
     font-family: 'Sunflower', sans-serif;
 }
 
-header{
+h1, h2, h3, h4, h5, h6, ul {
+    font-family: 'Sunflower', sans-serif !important;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+textarea{
+    resize: none;
+}
+
+.header-inicio{
+    height: 5vh;
+    background-color: rgba(54, 45, 89, .5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav{
     height: 5vh;
     background-color: rgba(54, 45, 89, .5);
     padding: 0 2rem;
@@ -16,21 +43,21 @@ header{
     justify-content: space-between;
 }
 
-header a{
+header nav a{
     text-decoration: none;
     color: #000;
 }
 
-header ul{
+header nav ul{
     list-style: none;
     display: flex;
     gap: 1rem;
 }
 
-header li a{
-    color: #333;
-    font-weight: 600;
-    text-decoration: none;
+header nav li a{
+    color: #333 ;
+    font-weight: 600 ;
+    text-decoration: none ;
 }
 
 .header-inicio{
@@ -190,24 +217,31 @@ section a{
     height: 15.625rem;
 }
 
-.bg-contact{
-    width: 78.25rem;
-    height: 47.1875rem;
-    margin: 2rem 0;
-    background-color: rgba(34, 34, 34, .5);
-}
-
-.bg-contact form input{
-    width: 29.125rem;
-    height: 3.6875rem;
-}
-
-.bg-contact form button{
+form button{
     width: 8.1944rem;
     height: 3.6975rem;
     border-style: none;
     border-radius: 1.2rem;
     background-color: rgba(53, 48, 191, .8);
+}
+
+.main-formulario{
+    height: 90vh;
+}
+
+.flex-column{
+    display: flex;
+    padding-top: 2rem;
+}
+
+.center{
+    align-self: center;
+    margin-top: 2rem;
+}
+
+.mt-5{
+    margin-top: 0 !important;
+    padding: 5vh;
 }
 
 @media (max-width: 1200px) {
@@ -251,19 +285,58 @@ section a{
     }
 }
 
+@media (max-width: 585px){
+    nav{
+        flex-direction: column;
+        width: 100vw;
+        height: 8vh;
+        justify-content: center;
+    }
+
+    #game-navbar{
+        font-size: 1.5rem;
+    }
+
+    .main-formulario{
+        height: 85vh;
+    }
+
+    #footers{
+        height: 7vh;
+        font-size: .95rem;
+    }
+}
+
+@media (max-width: 425px){
+    #options-navbar{
+        flex-direction: column;
+    }
+
+    nav{
+        height: 25vh;
+        text-align: center;
+    }
+    .main-formulario{
+        height: 68vh;
+    }
+}
+
 @media (max-width: 375px) {
     h1{
-        font-size: 3rem;
-    }
-    h2{
-        font-size: 1rem;
+        font-size: 3rem !important;
     }
     .btn-inicio{
         font-size: .8rem;
     }
 
     footer{
-        font-size: .8rem;
+        font-size: .6rem !important;
+    }
+
+    .center{
+        margin-top: .7rem;
+        width: 6rem;
+        height: 3rem;
     }
 }
 
@@ -281,5 +354,9 @@ section a{
 @media (max-height: 800px) {
     .titulo-inicio{
         height: 35vh;
+    }
+
+    nav ul{
+        gap: .3rem !important;
     }
 }
