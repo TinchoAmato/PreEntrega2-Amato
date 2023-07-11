@@ -8,8 +8,12 @@
 }
 
 header{
-    height: 4.6875rem;
+    height: 5vh;
     background-color: rgba(54, 45, 89, .5);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 header a{
@@ -17,13 +21,20 @@ header a{
     color: #000;
 }
 
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
 header li a{
-    color: #777;
+    color: #333;
+    font-weight: 600;
     text-decoration: none;
 }
 
-header h2{
-    text-align: center;
+.header-inicio{
+    justify-content: center;
 }
 
 h1{
@@ -32,9 +43,13 @@ h1{
 }
 
 footer{
-    height: 3.9375rem;
+    height: 5vh;
     background-color: #000;
     color: rgba(255, 255, 255, .5);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
@@ -55,11 +70,26 @@ footer{
 }
 
 .btn-inicio{
-    text-align: center;
     width: 11.4244rem;
     height: 6.25rem;
     background-color: #3530BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.selectores-inicio div:nth-child(1) a .btn-inicio{
     border-radius: 1.875rem 3.125rem;
+}
+.selectores-inicio div:nth-child(2) a .btn-inicio{
+    border-radius: 3.125rem 1.875rem;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
 
 section a{
@@ -68,9 +98,29 @@ section a{
 }
 
 .main-inicio{
-    height: 89.35vh;
+    height: 90vh;
     background-image: url(../assets/inicio/fondo.jpg);
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+}
+
+.titulo-inicio{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.selectores-inicio{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
 }
 
 .bg-top{
@@ -158,4 +208,78 @@ section a{
     border-style: none;
     border-radius: 1.2rem;
     background-color: rgba(53, 48, 191, .8);
+}
+
+@media (max-width: 1200px) {
+    .main-inicio{
+        justify-content: space-evenly;
+    }
+    
+    .selectores-inicio{
+        display: block;
+    }
+
+    .selectores-inicio div a:nth-child(1) .btn-inicio{
+        border-radius: 1.875rem 3.125rem;
+    }
+    .selectores-inicio div a:nth-child(2) .btn-inicio{
+        border-radius: 3.125rem 1.875rem;
+    }
+
+    .primer-inicio{
+        margin-bottom: 5vh;
+    }
+    
+    .titulo-inicio{
+        width: 70%;
+    }
+
+    h1{
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 768px){
+    h1{
+        font-size: 4rem;
+    }
+
+    .btn-inicio{
+        width: 25vw;
+        height: 10vh;
+        word-wrap:break-word;
+    }
+}
+
+@media (max-width: 375px) {
+    h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 1rem;
+    }
+    .btn-inicio{
+        font-size: .8rem;
+    }
+
+    footer{
+        font-size: .8rem;
+    }
+}
+
+@media (max-width: 320px){
+    .titulo-inicio{
+        width: 90%;
+        height: 30vh;
+    }
+
+    .btn-inicio{
+        width: 35vw;
+    }
+}
+
+@media (max-height: 800px) {
+    .titulo-inicio{
+        height: 35vh;
+    }
 }
