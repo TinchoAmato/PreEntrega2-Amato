@@ -9,6 +9,11 @@
 
 body {
     font-family: 'Sunflower', sans-serif;
+    background-color: #FFF;
+    background-image: url("data:image/svg+xml,%3Csvg xlink='http://www.w3.org/1999/xlink' viewBox='0 0 5000 5000' xmlns='http://www.w3.org/2000/svg' style='transform: scale(1)%3B'%3E%3Cdefs%3E%3Cfilter id='goo'%3E%3CfeGaussianBlur in='SourceGraphic' stdDeviation='0' result='blur'%3E%3C/feGaussianBlur%3E%3CfeColorMatrix in='blur' type='matrix' values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 19 -9' result='good'%3E%3C/feColorMatrix%3E%3CfeComposite in='SourceGraphic' in2='goo' operator='atop'%3E%3C/feComposite%3E%3C/filter%3E%3Cpath d='M266 167C298 175 322 198 330 224C338 250 334 277 315 304C293 328 261 338 234 333C202 325 178 302 170 276C162 250 166 223 185 196C207 172 239 162 266 167z' id='P0'%3E%3C/path%3E%3Cpath d='M315 340L140 264L297 150L315 340z' id='P1'%3E%3C/path%3E%3Cpath d='M315 414L86 315L185 86L414 185L315 414z' id='P2'%3E%3C/path%3E%3Cpath d='M300 123L387 259L284 383L134 323L144 163L300 123z' id='P3'%3E%3C/path%3E%3Cpath d='M289 402L136 357L98 211L211 98L364 143L402 289L289 402z' id='P4'%3E%3C/path%3E%3Cpath d='M305 111C359 134 394 182 399 231C405 280 388 326 346 366C299 401 240 409 195 389C141 366 106 318 101 269C95 220 112 174 154 134C201 99 260 91 305 111z' id='P5'%3E%3C/path%3E%3Cpath d='M126 226L330 153L289 370L126 226z' id='P6'%3E%3C/path%3E%3Cpath d='M292 412L88 292L208 88L412 208L292 412z' id='P7'%3E%3C/path%3E%3Cpath d='M147 392L84 196L250 75L416 196L353 392L147 392z' id='P8'%3E%3C/path%3E%3Cpath d='M91 162L250 68L404 152L409 338L250 432L96 348L91 162z' id='P9'%3E%3C/path%3E%3Cpath d='M305 80C371 104 416 159 426 216C436 274 420 330 373 380C320 426 250 440 195 420C129 396 84 341 74 284C64 226 80 170 127 120C180 74 250 60 305 80z' id='P10'%3E%3C/path%3E%3Cpath d='M245 171L321 284L183 292L245 171z' id='P11'%3E%3C/path%3E%3Cpath d='M108 213L287 108L392 287L213 392L108 213z' id='P12'%3E%3C/path%3E%3Cpath d='M332 121L398 288L260 403L108 306L152 132L332 121z' id='P13'%3E%3C/path%3E%3Cpath d='M336 115L410 260L327 390L164 385L90 240L173 110L336 115z' id='P14'%3E%3C/path%3E%3Cpath d='M280 174C310 187 329 213 331 240C335 266 325 291 302 313C277 333 245 337 220 326C190 313 171 287 169 260C165 234 175 209 198 187C223 167 255 163 280 174z' id='P15'%3E%3C/path%3E%3Cpath d='M327 219L240 332L186 197L327 219z' id='P16'%3E%3C/path%3E%3Cpath d='M190 122L378 190L310 378L122 310L190 122z' id='P17'%3E%3C/path%3E%3Cpath d='M356 292L243 364L140 278L189 154L323 162L356 292z' id='P18'%3E%3C/path%3E%3Cpath d='M158 361L109 223L197 116L342 139L391 277L303 384L158 361z' id='P19'%3E%3C/path%3E%3C/defs%3E%3Cg id='group' fill='%23000000' filter='' opacity='0.1'%3E%3Cuse x='-34' y='121' href='%23P12'%3E%3C/use%3E%3Cuse x='-6' y='442' href='%23P11'%3E%3C/use%3E%3Cuse x='134' y='685' href='%23P10'%3E%3C/use%3E%3Cuse x='-182' y='1519' href='%23P8'%3E%3C/use%3E%3Cuse x='-120' y='1874' href='%23P9'%3E%3C/use%3E%3Cuse x='-37' y='2441' href='%23P5'%3E%3C/use%3E%3Cuse x='-173' y='2884' href='%23P18'%3E%3C/use%3E%3Cuse x='110' y='3203' href='%23P3'%3E%3C/use%3E%3Cuse x='81' y='3467' href='%23P4'%3E%3C/use%3E%3Cuse x='-229' y='3933' href='%23P14'%3E%3C/use%3E%3Cuse x='-56' y='4379' href='%23P16'%3E%3C/use%3E%3Cuse x='26' y='4903' href='%23P1'%3E%3C/use%3E%3Cuse x='490' y='-144' href='%23P6'%3E%3C/use%3E%3Cuse x='348' y='569' href='%23P2'%3E%3C/use%3E%3Cuse x='531' y='1076' href='%23P9'%3E%3C/use%3E%3Cuse x='651' y='1507' href='%23P15'%3E%3C/use%3E%3Cuse x='208' y='1654' href='%23P15'%3E%3C/use%3E%3Cuse x='526' y='2336' href='%23P9'%3E%3C/use%3E%3Cuse x='281' y='2679' href='%23P1'%3E%3C/use%3E%3Cuse x='563' y='3273' href='%23P5'%3E%3C/use%3E%3Cuse x='524' y='3514' href='%23P4'%3E%3C/use%3E%3Cuse x='565' y='4325' href='%23P9'%3E%3C/use%3E%3Cuse x='600' y='4553' href='%23P19'%3E%3C/use%3E%3Cuse x='308' y='4849' href='%23P19'%3E%3C/use%3E%3Cuse x='856' y='-226' href='%23P4'%3E%3C/use%3E%3Cuse x='1106' y='647' href='%23P19'%3E%3C/use%3E%3Cuse x='789' y='703' href='%23P15'%3E%3C/use%3E%3Cuse x='961' y='1484' href='%23P10'%3E%3C/use%3E%3Cuse x='736' y='1987' href='%23P6'%3E%3C/use%3E%3Cuse x='743' y='2352' href='%23P19'%3E%3C/use%3E%3Cuse x='961' y='2941' href='%23P16'%3E%3C/use%3E%3Cuse x='1066' y='3073' href='%23P5'%3E%3C/use%3E%3Cuse x='669' y='3595' href='%23P6'%3E%3C/use%3E%3Cuse x='795' y='3909' href='%23P14'%3E%3C/use%3E%3Cuse x='728' y='4505' href='%23P15'%3E%3C/use%3E%3Cuse x='883' y='4842' href='%23P2'%3E%3C/use%3E%3Cuse x='1296' y='-37' href='%23P16'%3E%3C/use%3E%3Cuse x='1386' y='295' href='%23P8'%3E%3C/use%3E%3Cuse x='1487' y='1119' href='%23P19'%3E%3C/use%3E%3Cuse x='1264' y='1142' href='%23P9'%3E%3C/use%3E%3Cuse x='1530' y='1894' href='%23P17'%3E%3C/use%3E%3Cuse x='1541' y='2443' href='%23P1'%3E%3C/use%3E%3Cuse x='1404' y='2940' href='%23P6'%3E%3C/use%3E%3Cuse x='1199' y='3234' href='%23P17'%3E%3C/use%3E%3Cuse x='1575' y='3874' href='%23P8'%3E%3C/use%3E%3Cuse x='1226' y='3984' href='%23P16'%3E%3C/use%3E%3Cuse x='1155' y='4784' href='%23P9'%3E%3C/use%3E%3Cuse x='1561' y='4850' href='%23P9'%3E%3C/use%3E%3Cuse x='1766' y='-151' href='%23P0'%3E%3C/use%3E%3Cuse x='1962' y='423' href='%23P5'%3E%3C/use%3E%3Cuse x='1620' y='768' href='%23P7'%3E%3C/use%3E%3Cuse x='2029' y='1301' href='%23P19'%3E%3C/use%3E%3Cuse x='1870' y='1724' href='%23P15'%3E%3C/use%3E%3Cuse x='1827' y='2136' href='%23P3'%3E%3C/use%3E%3Cuse x='2006' y='2861' href='%23P8'%3E%3C/use%3E%3Cuse x='1614' y='3368' href='%23P7'%3E%3C/use%3E%3Cuse x='1996' y='3825' href='%23P8'%3E%3C/use%3E%3Cuse x='1935' y='4135' href='%23P16'%3E%3C/use%3E%3Cuse x='2006' y='4628' href='%23P13'%3E%3C/use%3E%3Cuse x='1696' y='4941' href='%23P11'%3E%3C/use%3E%3Cuse x='2361' y='-134' href='%23P3'%3E%3C/use%3E%3Cuse x='2406' y='314' href='%23P9'%3E%3C/use%3E%3Cuse x='2480' y='869' href='%23P4'%3E%3C/use%3E%3Cuse x='2294' y='1364' href='%23P7'%3E%3C/use%3E%3Cuse x='2167' y='1924' href='%23P16'%3E%3C/use%3E%3Cuse x='2344' y='2111' href='%23P5'%3E%3C/use%3E%3Cuse x='2107' y='2793' href='%23P4'%3E%3C/use%3E%3Cuse x='2464' y='3076' href='%23P10'%3E%3C/use%3E%3Cuse x='2409' y='3606' href='%23P4'%3E%3C/use%3E%3Cuse x='2203' y='3898' href='%23P9'%3E%3C/use%3E%3Cuse x='2461' y='4339' href='%23P12'%3E%3C/use%3E%3Cuse x='2496' y='4943' href='%23P4'%3E%3C/use%3E%3Cuse x='2685' y='-76' href='%23P18'%3E%3C/use%3E%3Cuse x='2839' y='460' href='%23P3'%3E%3C/use%3E%3Cuse x='2719' y='706' href='%23P6'%3E%3C/use%3E%3Cuse x='2665' y='1188' href='%23P1'%3E%3C/use%3E%3Cuse x='2837' y='1950' href='%23P11'%3E%3C/use%3E%3Cuse x='2723' y='2335' href='%23P9'%3E%3C/use%3E%3Cuse x='2543' y='2674' href='%23P2'%3E%3C/use%3E%3Cuse x='2883' y='3111' href='%23P1'%3E%3C/use%3E%3Cuse x='2947' y='3527' href='%23P13'%3E%3C/use%3E%3Cuse x='2880' y='4038' href='%23P12'%3E%3C/use%3E%3Cuse x='2737' y='4748' href='%23P13'%3E%3C/use%3E%3Cuse x='2760' y='5132' href='%23P13'%3E%3C/use%3E%3Cuse x='3179' y='61' href='%23P7'%3E%3C/use%3E%3Cuse x='3186' y='293' href='%23P6'%3E%3C/use%3E%3Cuse x='3189' y='1041' href='%23P13'%3E%3C/use%3E%3Cuse x='3055' y='1232' href='%23P3'%3E%3C/use%3E%3Cuse x='3014' y='1809' href='%23P14'%3E%3C/use%3E%3Cuse x='3025' y='2192' href='%23P19'%3E%3C/use%3E%3Cuse x='3312' y='2866' href='%23P7'%3E%3C/use%3E%3Cuse x='3371' y='3219' href='%23P6'%3E%3C/use%3E%3Cuse x='3040' y='3578' href='%23P12'%3E%3C/use%3E%3Cuse x='2984' y='4232' href='%23P5'%3E%3C/use%3E%3Cuse x='3319' y='4747' href='%23P10'%3E%3C/use%3E%3Cuse x='3176' y='5068' href='%23P3'%3E%3C/use%3E%3Cuse x='3522' y='-126' href='%23P18'%3E%3C/use%3E%3Cuse x='3712' y='563' href='%23P4'%3E%3C/use%3E%3Cuse x='3467' y='901' href='%23P3'%3E%3C/use%3E%3Cuse x='3674' y='1398' href='%23P19'%3E%3C/use%3E%3Cuse x='3526' y='1911' href='%23P9'%3E%3C/use%3E%3Cuse x='3474' y='2104' href='%23P6'%3E%3C/use%3E%3Cuse x='3489' y='2856' href='%23P4'%3E%3C/use%3E%3Cuse x='3549' y='3381' href='%23P1'%3E%3C/use%3E%3Cuse x='3631' y='3518' href='%23P14'%3E%3C/use%3E%3Cuse x='3637' y='4154' href='%23P5'%3E%3C/use%3E%3Cuse x='3704' y='4348' href='%23P15'%3E%3C/use%3E%3Cuse x='3836' y='4862' href='%23P14'%3E%3C/use%3E%3Cuse x='4229' y='39' href='%23P1'%3E%3C/use%3E%3Cuse x='3944' y='551' href='%23P17'%3E%3C/use%3E%3Cuse x='4287' y='874' href='%23P5'%3E%3C/use%3E%3Cuse x='4245' y='1154' href='%23P1'%3E%3C/use%3E%3Cuse x='4072' y='1656' href='%23P5'%3E%3C/use%3E%3Cuse x='3924' y='2161' href='%23P13'%3E%3C/use%3E%3Cuse x='4127' y='2591' href='%23P12'%3E%3C/use%3E%3Cuse x='4242' y='3116' href='%23P12'%3E%3C/use%3E%3Cuse x='4277' y='3584' href='%23P18'%3E%3C/use%3E%3Cuse x='4299' y='3895' href='%23P8'%3E%3C/use%3E%3Cuse x='3974' y='4480' href='%23P13'%3E%3C/use%3E%3Cuse x='4172' y='5166' href='%23P15'%3E%3C/use%3E%3Cuse x='4463' y='128' href='%23P9'%3E%3C/use%3E%3Cuse x='4607' y='625' href='%23P13'%3E%3C/use%3E%3Cuse x='4494' y='667' href='%23P18'%3E%3C/use%3E%3Cuse x='4626' y='1477' href='%23P15'%3E%3C/use%3E%3Cuse x='4733' y='1654' href='%23P6'%3E%3C/use%3E%3Cuse x='4367' y='2338' href='%23P17'%3E%3C/use%3E%3Cuse x='4766' y='2591' href='%23P0'%3E%3C/use%3E%3Cuse x='4468' y='3060' href='%23P3'%3E%3C/use%3E%3Cuse x='4651' y='3617' href='%23P1'%3E%3C/use%3E%3Cuse x='4443' y='4130' href='%23P15'%3E%3C/use%3E%3Cuse x='4753' y='4537' href='%23P11'%3E%3C/use%3E%3Cuse x='4425' y='4991' href='%23P11'%3E%3C/use%3E%3Cuse x='5124' y='95' href='%23P11'%3E%3C/use%3E%3Cuse x='4955' y='518' href='%23P0'%3E%3C/use%3E%3Cuse x='5223' y='811' href='%23P11'%3E%3C/use%3E%3Cuse x='4886' y='1483' href='%23P12'%3E%3C/use%3E%3Cuse x='4883' y='1614' href='%23P5'%3E%3C/use%3E%3Cuse x='5094' y='2107' href='%23P9'%3E%3C/use%3E%3Cuse x='5109' y='2789' href='%23P9'%3E%3C/use%3E%3Cuse x='5065' y='3308' href='%23P17'%3E%3C/use%3E%3Cuse x='5159' y='3808' href='%23P7'%3E%3C/use%3E%3Cuse x='4796' y='4007' href='%23P8'%3E%3C/use%3E%3Cuse x='5225' y='4695' href='%23P6'%3E%3C/use%3E%3Cuse x='5156' y='4924' href='%23P14'%3E%3C/use%3E%3C/g%3E%3C/svg%3E");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6, ul {
@@ -150,15 +155,41 @@ section a{
     align-items:center;
 }
 
+.flex-tops{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5vh;
+    padding: 2vh 0;
+}
+
+.flex-ficha{
+    display: flex;
+    width: 50%;
+    height: 40vh;
+}
+
 .bg-top{
-    margin-top: 2rem;
     text-align: center;
-    width: 35.9375rem;
-    height: 38.375rem;
+    width: 50%;
+    height: 100%;
     background-size: cover;
     background-position: 50%;
-    font-size: 3rem;
     -webkit-text-stroke: .0005rem black;
+}
+
+.bg-top h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 3rem;
+}
+
+.bg-top h2:hover{
+    transform: scale(1.1);
+    transition: all .1s;
 }
 
 .minecraft{
@@ -177,15 +208,32 @@ section a{
 }
 
 .bg-ficha{
-    margin-bottom: 2rem;
     background-color: rgba(0, 0, 0, .6);
-    width: 35.9375rem;
-    height: 38.375rem;
+    width: 50%;
+    height: 100%;
     text-align: center;
     font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-ficha ul{
+    height: 80%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.bg-ficha ul li:hover{
+    transform: scale(1.1);
 }
 
 .bg-ficha h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20%;
     font-size: 3rem;
 }
 
@@ -271,6 +319,10 @@ form button{
     h1{
         font-size: 5rem;
     }
+
+    .flex-ficha{
+        width: 70%;
+    }
 }
 
 @media (max-width: 768px){
@@ -282,6 +334,10 @@ form button{
         width: 25vw;
         height: 10vh;
         word-wrap:break-word;
+    }
+
+    .flex-ficha{
+        width: 80%;
     }
 }
 
@@ -305,6 +361,18 @@ form button{
         height: 7vh;
         font-size: .95rem;
     }
+
+    .flex-ficha{
+        width: 100%;
+    }
+
+    .bg-top h2{
+        font-size: 2.5rem;
+    }
+
+    .bg-ficha ul{
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 425px){
@@ -317,7 +385,22 @@ form button{
         text-align: center;
     }
     .main-formulario{
-        height: 68vh;
+        height: 80vh;
+    }
+
+    .flex-ficha{
+        flex-direction: column;
+        height: 60vh;
+    }
+
+    .bg-ficha{
+        width: 100%;
+        height: 50%;
+    }
+
+    .bg-top{
+        width: 100%;
+        height: 50%;
     }
 }
 
@@ -358,5 +441,9 @@ form button{
 
     nav ul{
         gap: .3rem !important;
+    }
+
+    .flex-ficha{
+        height: 80vh;
     }
 }
